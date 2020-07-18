@@ -1,5 +1,13 @@
-### Hi there 👋
+### hello world, i'm stephanie! 👋
+(she/her)
 
+a passionate computer science student [@ubc](https://www.cs.ubc.ca/) dabbling in innovative technology within the medical field [@ubc best](http://www.ubcbest.com/), running virtual hackathons [@nwplus](https://www.nwplus.io/), and hiking my way through the rocky mountains ✨
+
+currently a software product sprint participant [@google](https://buildyourfuture.withgoogle.com/programs/softwareproductsprint/) + doing some self learning!
+
+#### reach out to me:
+
+[linkedin](https://linkedin.com/in/stephaniejnc) | [email](stephaniejnc@outlook.com)
 <!--
 **stephaniejnc/stephaniejnc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
