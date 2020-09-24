@@ -1,11 +1,13 @@
 ### hello world, i'm stephanie! 👋
 (she/her)
 
-a passionate computer science student [@ubc](https://www.cs.ubc.ca/) dabbling in innovative technology within the medical field [@ubc best](http://www.ubcbest.com/), running virtual hackathons [@nwplus](https://www.nwplus.io/), and hiking my way through the rocky mountains ✨
+a passionate computer science student [@ubc](https://www.cs.ubc.ca/) dabbling in mainly full-stack web development, running virtual hackathons [@nwplus](https://www.nwplus.io/), and hiking my way through the rocky mountains ✨
 
-currently a software product sprint participant [@google](https://buildyourfuture.withgoogle.com/programs/softwareproductsprint/) + doing some self learning!
+previously a software product sprint participant [@google](https://buildyourfuture.withgoogle.com/programs/softwareproductsprint/)!
 
 #### reach out to me:
+
+looking for summer 2021 opportunities! or just a coffee chat 😊
 
 [linkedin](https://linkedin.com/in/stephaniejnc) | [email](stephaniejnc@outlook.com)
 <!--
