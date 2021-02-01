@@ -7,7 +7,7 @@ previously a software product sprint participant [@google](https://buildyourfutu
 
 #### reach out to me:
 
-looking for summer 2021 opportunities! or just a coffee chat 😊
+looking for fall 2021 opportunities! or just a coffee chat 😊
 
 [linkedin](https://linkedin.com/in/stephaniejnc) | [email](stephaniejnc@outlook.com)
 <!--
