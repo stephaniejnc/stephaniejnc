@@ -3,13 +3,16 @@
 
 a passionate computer science student [@ubc](https://www.cs.ubc.ca/) dabbling in mainly full-stack web development + bit of iOS, running virtual hackathons [@nwplus](https://www.nwplus.io/), and hiking my way through the rocky mountains ✨
 
-currently interning [@facebook](https://www.facebook.com) on web core infra! 
+currently interning [@slack](https://slack.com/)! 🫶🏼 
 
-previously a swe intern [@galvanize](https://www.linkedin.com/company/wegalvanize/) and software product sprint participant [@google](https://buildyourfuture.withgoogle.com/programs/softwareproductsprint/)!
+previously on the last episode...
+- software engineer intern [@facebook](https://www.facebook.com), web core infra ☄️
+- software engineer intern [@galvanize](https://www.linkedin.com/company/wegalvanize/), backend + infra ☁️
+- software product sprint participant [@google](https://buildyourfuture.withgoogle.com/programs/softwareproductsprint/) 💡
 
 #### reach out to me:
 
-looking for fall 2021 opportunities! or just a coffee chat and/or memes
+looking for 2023 new grad opportunities! or just a coffee/matcha chat and/or memes
 
 [linkedin](https://linkedin.com/in/stephaniejnc) | [email](stephaniejnc@outlook.com)
 <!--
